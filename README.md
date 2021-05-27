@@ -4,7 +4,9 @@ This repository contains code exploring methods of predicting the outcome of foo
 
 ### Files
 
-There are four Jupyter notebooks that we worked with during our project:
+Our final report, detailing the project background and our results, can be found in `final_project.pdf`.
+
+There are five Jupyter notebooks that we worked with during our project:
 
 - `data_prep.ipynb`: Makes an API call to the [Food Inspections dataset](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5) from the City of Chicago Open Data Portal. (86 lines of code)
 - `early_models.ipynb`: Explores initial models, including Naive Bayes, logistic regression, and SVM. (319 lines)
